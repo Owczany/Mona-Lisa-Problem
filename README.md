@@ -1,5 +1,9 @@
 # Mona Lisa Project
 
+# Algorithms
+ES
+Incremental Hill Climbing
+
 
 ## Contributors
 
