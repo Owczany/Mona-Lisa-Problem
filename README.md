@@ -1,9 +1,20 @@
 # Mona Lisa Project
 
+## Description
+
+
+# Core Idea
+
+
+## Problems
+
+
+# Results
+
 # Algorithms
 ES
 Incremental Hill Climbing
-
+Own
 
 ## Contributors
 
